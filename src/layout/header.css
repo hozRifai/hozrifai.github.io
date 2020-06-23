@@ -1,0 +1,29 @@
+/* Header Section */
+
+.logo {
+    margin-left: 10% !important;
+    /* color: linear-gradient(1deg, rgba(206, 43, 43, 0.5), rgba(71, 222, 69, 0.5)) !important; */
+}
+
+.main-navbar {margin-right: 15% !important;}
+.navbar-mode{
+    color: black !important;
+    margin-right: 7px !important;
+    font-style: italic;
+    font-size: 17px;
+}
+
+.navbar-mode:focus {
+    background-color: transparent !important;
+    border-bottom: 0.5px solid red;
+    color: #f11111 !important;
+    transition: all 0.2s ease-in;
+}
+
+.navbar-mode:hover{
+    background-color: transparent !important;
+    color: #f11111 !important;
+    /* transition: all 0.2s ease-in; */
+    /* transform: scale(1.05);
+    box-shadow: 0px 7px 7px rgba(0,0,0,0.1); */
+}
