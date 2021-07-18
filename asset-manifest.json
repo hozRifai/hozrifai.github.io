@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/https//hozrifai.github.io/hozrifai.github.io/static/css/main.b6da51a2.chunk.css",
+    "main.js": "/https//hozrifai.github.io/hozrifai.github.io/static/js/main.80be8a0e.chunk.js",
+    "main.js.map": "/https//hozrifai.github.io/hozrifai.github.io/static/js/main.80be8a0e.chunk.js.map",
+    "runtime-main.js": "/https//hozrifai.github.io/hozrifai.github.io/static/js/runtime-main.902b214e.js",
+    "runtime-main.js.map": "/https//hozrifai.github.io/hozrifai.github.io/static/js/runtime-main.902b214e.js.map",
+    "static/css/2.63f31f8d.chunk.css": "/https//hozrifai.github.io/hozrifai.github.io/static/css/2.63f31f8d.chunk.css",
+    "static/js/2.37084d42.chunk.js": "/https//hozrifai.github.io/hozrifai.github.io/static/js/2.37084d42.chunk.js",
+    "static/js/2.37084d42.chunk.js.map": "/https//hozrifai.github.io/hozrifai.github.io/static/js/2.37084d42.chunk.js.map",
+    "index.html": "/https//hozrifai.github.io/hozrifai.github.io/index.html",
+    "precache-manifest.8c4709f754b03dbcb92e1c43928f2983.js": "/https//hozrifai.github.io/hozrifai.github.io/precache-manifest.8c4709f754b03dbcb92e1c43928f2983.js",
+    "service-worker.js": "/https//hozrifai.github.io/hozrifai.github.io/service-worker.js",
+    "static/css/2.63f31f8d.chunk.css.map": "/https//hozrifai.github.io/hozrifai.github.io/static/css/2.63f31f8d.chunk.css.map",
+    "static/css/main.b6da51a2.chunk.css.map": "/https//hozrifai.github.io/hozrifai.github.io/static/css/main.b6da51a2.chunk.css.map",
+    "static/js/2.37084d42.chunk.js.LICENSE.txt": "/https//hozrifai.github.io/hozrifai.github.io/static/js/2.37084d42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.902b214e.js",
+    "static/css/2.63f31f8d.chunk.css",
+    "static/js/2.37084d42.chunk.js",
+    "static/css/main.b6da51a2.chunk.css",
+    "static/js/main.80be8a0e.chunk.js"
+  ]
+}
