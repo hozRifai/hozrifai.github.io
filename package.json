@@ -3,7 +3,7 @@
   "author": "Hozayfa El Rifai",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https//hozrifai.github.io",
+  "homepage": "https://hozrifai.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
